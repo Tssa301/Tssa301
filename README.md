@@ -1,4 +1,4 @@
-## Hi there!!! I am Tiago Silva
+## Hi there!!! I'm Tiago Silva
 
 - 📚 I’m currently learning Java, Spring Boot and ReactJS.
 
