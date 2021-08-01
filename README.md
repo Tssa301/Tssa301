@@ -1,6 +1,10 @@
 ## Hi there!!! I'm Tiago Silva
 
-- 📚 I’m currently learning Java, Spring Boot and ReactJS.
+ 👨🏽‍🎓 Studying: Technology in Systems Analysis and Development;
+
+📚 Learning: Java, Spring Boot and ReactJS;
+
+🔨 Main Tools: Visual Studio Code, Spring Tool Suite 4, Eclipse and Git;
 
  <div>
   <a href="https://github.com/Tssa301">
